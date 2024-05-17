@@ -3,6 +3,9 @@
 ## Introduction
 This repository contains code for performing sentiment analysis on text data using various techniques such as tokenization, lemmatization, vectorization, and machine learning models. Sentiment analysis involves determining the sentiment or opinion expressed in a piece of text, which can be positive, negative, or neutral.
 
+<img width="952" alt="Screenshot 2024-05-18 at 1 07 10 AM" src="https://github.com/rLalrinmawii/SentimentAnalysis-NLP/assets/142977438/a7c49b46-338f-4e67-8eb4-755484baf187">
+
+
 ## Dependencies
 - Python (>=3.6)
 - Libraries: pandas, numpy, nltk, scikit-learn, matplotlib, seaborn
