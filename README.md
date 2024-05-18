@@ -1,7 +1,10 @@
 # Sentiment Analysis with Text Data
 
 ## Introduction
-This repository serves as an extension project following my seminar presentation on "Sentiment Analysis in NLP." It includes code for text preprocessing, text visualization, sentiment analysis, sentiment modeling, and an extra exploration of Term Frequency-Inverse Document Frequency (TF-IDF). Sentiment analysis involves determining the sentiment or opinion expressed in a piece of text, which can be positive, negative, or neutral. Additionally, a selection of slides from the presentation is included as images.
+This repository serves as an extension project following my **seminar presentation on "Sentiment Analysis in NLP"**. It includes code for text preprocessing, text visualization, sentiment analysis, sentiment modeling, and an extra exploration of Term Frequency-Inverse Document Frequency (TF-IDF). Sentiment analysis involves determining the sentiment or opinion expressed in a piece of text, which can be **positive**, **negative**, or **neutral**.
+
+Additionally, a selection of slides from the presentation is included as images.
+
 
 <img width="909" alt="Screenshot 2024-05-18 at 12 09 43 PM" src="https://github.com/rLalrinmawii/SentimentAnalysis-NLP/assets/142977438/b3146027-78e2-45b8-9f08-504112aca243">
 
